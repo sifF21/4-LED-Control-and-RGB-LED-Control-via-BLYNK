@@ -1,2 +1,4 @@
 # 4-LED-Control-and-RGB-LED-Control-via-BLYNK
 Controlling LED wirelessly via BLYNK
+  use 3 jumper wires to connect
+    D2, D21, D23 to RGB
